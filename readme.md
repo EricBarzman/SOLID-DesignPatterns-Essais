@@ -1,5 +1,7 @@
-# Quelques essais pour maîtriser et bien comprendre les différents principes SOLID, POO et patrons de conceptions (Design Patters).
+# Design Patterns
 
-Tous ces essais sont en C#.
+Ce repo constitue des notes à mon usage personnel.
 
-Ce repo est à mon usage personnel, il s'agit de notes plus que d'une application
+Ce sont mes essais pour maîtriser et bien comprendre les différents principes SOLID, POO et patrons de conceptions.
+
+Tous ces essais sont effectués en C#.
