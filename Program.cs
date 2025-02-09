@@ -43,11 +43,17 @@
 
 // using ConsoleApp1.src.CreationalPatterns.Builder;
 
+// // Sans director
 // var carBuilder = new CarBuilder();
 // carBuilder.SetCarType(CarType.Sports).SetIsConvertible(false); // etc pour ajouter de la complexité
 
+// // Avec director
+// using ConsoleApp1.src.CreationalPatterns.Builder;
 
-
+// var carBuilder = new CarBuilder();
+// var director = new Director();
+// director.ConstructSportsCar(carBuilder);
+// var sportsCar = carBuilder.GetCar();
 
 
 

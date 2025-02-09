@@ -31,5 +31,9 @@ namespace ConsoleApp1.src.CreationalPatterns.Builder
             _car.Seats = seats;
             return this;
         }
+
+        public Car GetCar() {
+            return _car;
+        }
     }
 }
